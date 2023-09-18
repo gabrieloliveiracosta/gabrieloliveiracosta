@@ -24,7 +24,3 @@
 #
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-oliveira-costa)
-
-###
-
- ![Snake animation](https://github.com/gabrieloliveiracosta/gabrieloliveiracosta/blob/output/github-contribution-grid-snake.svg)
